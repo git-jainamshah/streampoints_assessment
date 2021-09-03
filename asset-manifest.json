@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/streampoints_assessment/static/css/main.61099686.chunk.css",
+    "main.js": "/streampoints_assessment/static/js/main.ba1f27c0.chunk.js",
+    "main.js.map": "/streampoints_assessment/static/js/main.ba1f27c0.chunk.js.map",
+    "runtime-main.js": "/streampoints_assessment/static/js/runtime-main.6711be1c.js",
+    "runtime-main.js.map": "/streampoints_assessment/static/js/runtime-main.6711be1c.js.map",
+    "static/css/2.786ae0dd.chunk.css": "/streampoints_assessment/static/css/2.786ae0dd.chunk.css",
+    "static/js/2.08ba7f9c.chunk.js": "/streampoints_assessment/static/js/2.08ba7f9c.chunk.js",
+    "static/js/2.08ba7f9c.chunk.js.map": "/streampoints_assessment/static/js/2.08ba7f9c.chunk.js.map",
+    "index.html": "/streampoints_assessment/index.html",
+    "static/css/2.786ae0dd.chunk.css.map": "/streampoints_assessment/static/css/2.786ae0dd.chunk.css.map",
+    "static/css/main.61099686.chunk.css.map": "/streampoints_assessment/static/css/main.61099686.chunk.css.map",
+    "static/js/2.08ba7f9c.chunk.js.LICENSE.txt": "/streampoints_assessment/static/js/2.08ba7f9c.chunk.js.LICENSE.txt",
+    "static/media/applogo.da1a531e.svg": "/streampoints_assessment/static/media/applogo.da1a531e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6711be1c.js",
+    "static/css/2.786ae0dd.chunk.css",
+    "static/js/2.08ba7f9c.chunk.js",
+    "static/css/main.61099686.chunk.css",
+    "static/js/main.ba1f27c0.chunk.js"
+  ]
+}
